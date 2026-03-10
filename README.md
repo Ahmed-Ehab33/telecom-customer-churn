@@ -69,4 +69,4 @@ This was a direct result of the scaling inconsistency.
 
 ## 🛠️ Tech Stack
 
-`Python` `Pandas` `Scikit-learn` `XGBoost` `TensorFlow` `SMOTE` `Streamlit`
+`Python` `Pandas` `Scikit-learn` `XGBoost` `TensorFlow` `SMOTE` `Streamlit` `fastapi`
